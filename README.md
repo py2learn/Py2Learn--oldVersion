@@ -1,7 +1,7 @@
-# Antes de iniciares o teu curso vamos ensinar-te como utilizar um notebook.
-
-
 [English](https://py2learn.github.io/Py2Learn---English/)
+
+
+# Antes de iniciares o teu curso vamos ensinar-te como utilizar um notebook.
 
 
 ## Para fazer correr um célula, o que fazes é selecionar a célula e carregar no botão **Run**.
