@@ -19,5 +19,5 @@
 ## Clica num dos icons abaixo e inicia o teu curso, tornando-te assim num expert!!!
 
 
-Português [![Jupyter](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
-Inglês - 
+Português [![Portuguese](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
+Inglês [![English](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/Py2LearnEng/master)
