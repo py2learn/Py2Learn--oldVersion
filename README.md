@@ -19,7 +19,7 @@
 ![download](downloadNotebook.png)
 
 
-## Clica num dos icons abaixo e inicia o teu curso, tornando-te assim num expert!!!
+## Clica no icon abaixo e inicia o teu curso, tornando-te assim num expert!!!
 
 
-[![Portuguese](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
+[![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master)
