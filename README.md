@@ -4,7 +4,7 @@
 ![run](correrCelula.png)
 
 ## Para criar nova célula clica no botão "+".
-![new](criarCelula.png)
+![new](adicionarCelula.png)
 
 ## Visto que cada célula está associada a um tipo (Markdown - texto; Code - código; Raw NBConvert - código que não vai ser corrido), para criar uma célula deve-se especificar o seu tipo alterando na lista dropdown.
 ![type](tipoCelula.png)
