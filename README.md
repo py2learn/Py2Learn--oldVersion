@@ -1,4 +1,4 @@
-![English](https://py2learn.github.io/Py2Learn/)
+![English](https://py2learn.github.io/Py2Learn--English/)
 
 
 # Antes de iniciares o teu curso vamos ensinar-te como utilizar um notebook.
@@ -22,4 +22,4 @@
 ## Clica num dos icons abaixo e inicia o teu curso, tornando-te assim num expert!!!
 
 
-Português [![Portuguese](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
+[![Portuguese](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
