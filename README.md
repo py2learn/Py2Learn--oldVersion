@@ -1,3 +1,6 @@
+English [![English](https://py2learn.github.io/Py2Learn---English/)
+
+
 # Antes de iniciares o teu curso vamos ensinar-te como utilizar um notebook.
 
 ## Para fazer correr um célula, o que fazes é selecionar a célula e carregar no botão **Run**.
@@ -20,4 +23,3 @@
 
 
 Português [![Portuguese](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/blog/master) <br/>
-Inglês [![English](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/Py2LearnEng/master)
