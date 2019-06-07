@@ -1,4 +1,4 @@
-# Antes de iniciares o teu curso vamos ensinar-te como navegar utilizar um notebook.
+# Antes de iniciares o teu curso vamos ensinar-te como utilizar um notebook.
 
 ## Para fazer correr um célula, o que fazes é selecionar a célula e carregar no botão **Run**.
 ![run](correrCelula.png)
